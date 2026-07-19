@@ -5,7 +5,7 @@ This tool is a python based Windows security audit tool that collects system, ne
 As a student who is studying cybersecurity, I built this tool to better understand Python and security concepts by building a tool that gathers security information from a Windows system. The information collected is organized into a report that can be reviewed after to better understand the systems configuration and activity.
 
 ## Features
--System information
+-System information\n
 -Network information
 -Running processes
 -Installed software
